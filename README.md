@@ -1,2 +1,2 @@
-# lesegais.ru Page Parser
-🗃️ JobApplication - Selenium C# Web Parser 
+# Selenium Web Parser
+> https://www.lesegais.ru/open-area/deal
